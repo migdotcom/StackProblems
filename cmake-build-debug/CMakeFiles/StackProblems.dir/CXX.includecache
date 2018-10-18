@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Migue/StackProblems/ArgumentManager.h
+map
+-
+string
+-
+iostream
+-
+sstream
+-
+
+C:/Users/Migue/StackProblems/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+cassert
+-
+fstream
+-
+string
+-
+sstream
+-
+iomanip
+-
+ArgumentManager.h
+C:/Users/Migue/StackProblems/ArgumentManager.h
+
